@@ -9,14 +9,12 @@ Guia de estudio
 Contenido:
 ----------
 
-* Html
-* Angular 4
-* Javascript
-
 .. toctree::
-   :maxdepth: 2
-
-
+   :maxdepth: 1
+  
+   html 
+   javascript
+   angular
 
 Indices y Tablas
 ================
